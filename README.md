@@ -1,0 +1,1 @@
+# Kubernetes AI YAML Agent\nThis AI agent generates valid Kubernetes YAML manifests using OpenAI + LangChain.

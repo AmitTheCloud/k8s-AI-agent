@@ -1,0 +1,10 @@
+openai
+langchain
+fastapi
+uvicorn
+chromadb
+faiss-cpu
+jinja2
+python-dotenv
+pyyaml
+requests
